@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# local/raw generation junk
+out/
+raw/
+frames/
+preview_frames/
+*_raw*.png
+assets/originals/
+
+# Python
+__pycache__/
+*.pyc
+
+# temp
+.tmp/
+tmp/

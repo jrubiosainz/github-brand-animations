@@ -26,6 +26,14 @@ Generated sprite animation experiments inspired by GitHub's Octodex mascots.
 - Pythocat
 - Octobiwan
 - Labtocat
+- Securityknightocat
+- Surftocat
+- Scubatocat
+- Skatetocat
+- Minertocat
+- Snowtocat
+- Yogitocat
+- Saketocat
 
 ## Notes
 

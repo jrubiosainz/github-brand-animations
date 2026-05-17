@@ -16,3 +16,7 @@ __pycache__/
 # temp
 .tmp/
 tmp/
+
+# local draft workspace
+work/
+previews/new-drafts/

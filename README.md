@@ -4,10 +4,6 @@
   <img src="previews/readme/octodex_commit_rift_cinematic.gif" alt="Octodex commit rift cinematic preview" width="820">
 </p>
 
-<p align="center">
-  <a href="previews/videos/octodex_commit_rift_cinematic.mp4">Watch the full MP4 cinematic</a>
-</p>
-
 Generated sprite animation experiments inspired by GitHub's Octodex mascots.
 
 ## Contents

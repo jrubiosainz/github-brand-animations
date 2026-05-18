@@ -1,15 +1,9 @@
 [
   {
-    "slug": "mona",
-    "label": "Mona",
-    "walk": "assets/characters/mona/walk/mona_walk_right_left.png",
-    "jump": "assets/characters/mona/jump/mona_jump_right_left_gpt_v3.png"
-  },
-  {
-    "slug": "robotocat",
-    "label": "Robotocat",
-    "walk": "assets/characters/robotocat/walk/robotocat_walk_right_left.png",
-    "jump": "assets/characters/robotocat/jump/robotocat_jump_right_left_gpt_v3.png"
+    "slug": "codercat",
+    "label": "Codercat",
+    "walk": "assets/characters/codercat/walk/codercat_walk_right_left.png",
+    "jump": "assets/characters/codercat/jump/codercat_jump_right_left_gpt_v3.png"
   },
   {
     "slug": "dinotocat",
@@ -18,10 +12,34 @@
     "jump": "assets/characters/dinotocat/jump/dinotocat_jump_right_left_gpt_v3.png"
   },
   {
-    "slug": "securitocat",
-    "label": "Securitocat",
-    "walk": "assets/characters/securitocat/walk/securitocat_walk_right_left.png",
-    "jump": "assets/characters/securitocat/jump/securitocat_jump_right_left_gpt_v3.png"
+    "slug": "jetpacktocat",
+    "label": "Jetpacktocat",
+    "walk": "assets/characters/jetpacktocat/walk/jetpacktocat_walk_right_left.png",
+    "jump": "assets/characters/jetpacktocat/jump/jetpacktocat_jump_right_left_gpt_v3.png"
+  },
+  {
+    "slug": "labtocat",
+    "label": "Labtocat",
+    "walk": "assets/characters/labtocat/walk/labtocat_walk_right_left.png",
+    "jump": "assets/characters/labtocat/jump/labtocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "minertocat",
+    "label": "Minertocat",
+    "walk": "assets/characters/minertocat/walk/minertocat_walk_right_left.png",
+    "jump": "assets/characters/minertocat/jump/minertocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "mona",
+    "label": "Mona",
+    "walk": "assets/characters/mona/walk/mona_walk_right_left.png",
+    "jump": "assets/characters/mona/jump/mona_jump_right_left_gpt_v3.png"
+  },
+  {
+    "slug": "octobiwan",
+    "label": "Octobiwan",
+    "walk": "assets/characters/octobiwan/walk/octobiwan_walk_right_left.png",
+    "jump": "assets/characters/octobiwan/jump/octobiwan_jump_right_left_gpt_v2.png"
   },
   {
     "slug": "octoliberty",
@@ -30,21 +48,51 @@
     "jump": "assets/characters/octoliberty/jump/octoliberty_jump_right_left_gpt_v3.png"
   },
   {
-    "slug": "jetpacktocat",
-    "label": "Jetpacktocat",
-    "walk": "assets/characters/jetpacktocat/walk/jetpacktocat_walk_right_left.png",
-    "jump": "assets/characters/jetpacktocat/jump/jetpacktocat_jump_right_left_gpt_v3.png"
-  },
-  {
-    "slug": "codercat",
-    "label": "Codercat",
-    "walk": "assets/characters/codercat/walk/codercat_walk_right_left.png",
-    "jump": "assets/characters/codercat/jump/codercat_jump_right_left_gpt_v3.png"
-  },
-  {
     "slug": "pythocat",
     "label": "Pythocat",
     "walk": "assets/characters/pythocat/walk/pythocat_walk_right_left.png",
     "jump": "assets/characters/pythocat/jump/pythocat_jump_right_left_gpt_v3.png"
+  },
+  {
+    "slug": "robotocat",
+    "label": "Robotocat",
+    "walk": "assets/characters/robotocat/walk/robotocat_walk_right_left.png",
+    "jump": "assets/characters/robotocat/jump/robotocat_jump_right_left_gpt_v3.png"
+  },
+  {
+    "slug": "scubatocat",
+    "label": "Scubatocat",
+    "walk": "assets/characters/scubatocat/walk/scubatocat_walk_right_left.png",
+    "jump": "assets/characters/scubatocat/jump/scubatocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "securitocat",
+    "label": "Securitocat",
+    "walk": "assets/characters/securitocat/walk/securitocat_walk_right_left.png",
+    "jump": "assets/characters/securitocat/jump/securitocat_jump_right_left_gpt_v3.png"
+  },
+  {
+    "slug": "securityknightocat",
+    "label": "Securityknightocat",
+    "walk": "assets/characters/securityknightocat/walk/securityknightocat_walk_right_left.png",
+    "jump": "assets/characters/securityknightocat/jump/securityknightocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "skatetocat",
+    "label": "Skatetocat",
+    "walk": "assets/characters/skatetocat/walk/skatetocat_walk_right_left.png",
+    "jump": "assets/characters/skatetocat/jump/skatetocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "snowtocat",
+    "label": "Snowtocat",
+    "walk": "assets/characters/snowtocat/walk/snowtocat_walk_right_left.png",
+    "jump": "assets/characters/snowtocat/jump/snowtocat_jump_right_left_gpt_v2.png"
+  },
+  {
+    "slug": "surftocat",
+    "label": "Surftocat",
+    "walk": "assets/characters/surftocat/walk/surftocat_walk_right_left.png",
+    "jump": "assets/characters/surftocat/jump/surftocat_jump_right_left_gpt_v2.png"
   }
 ]

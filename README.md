@@ -34,6 +34,14 @@ Generated sprite animation experiments inspired by GitHub's Octodex mascots.
 - Snowtocat
 - Yogitocat
 - Saketocat
+- Bombacat
+- Universetocat
+- Sponsortocat
+- Manufacturetocat
+- Fintechtocat
+- Brennatocat
+- Sentrytocat
+- Umbrellatocat
 
 ## Notes
 
